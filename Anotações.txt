@@ -1,0 +1,43 @@
+Gerenciador de arquivos- shelchive
+
+Objetivo: gerenciador de arquivos personalizado de multimidias, somente para pc por enquanto...
+
+Visual rafael-visual retro, capa de ps2 pros jogos com caopa editavel, capa de cd antigo pra arq mp3 e pasta pros arquivo normal.
+
+Visual joao-visual pixel art, estilização na ideia do vscode, interface no esqueleto do gerenciador tradicional
+
+Esrutura- painel vazio com opção de adição, com a aba 
+
+ -- Requisito funcional --
+
+1- Aceitar pelo menos jogos(executáveis), música(derivados), imagens(derivados), arquivos(derivados)
+
+2- Criação, importação e gerenciamento de pastas/arquivos
+
+3- IA integrada
+
+4- Integração com winRAR
+
+5- Personalização
+
+6- Resposta de áudio
+
+7- Gerenciador de janelas
+
+8- Comandos personalizados
+
+9- Pasta compartilhada: link de usuário do windows
+
+10- Salvamento de personalização
+
+11- Campo de pesquisa
+
+12- Opção de filtro
+
+13- Criação de atalho dos arquivos
+
+14- Nuvem
+
+15- Link de dispositivos
+
+16- Comando de retorno e refazer
