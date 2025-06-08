@@ -2,7 +2,7 @@ Gerenciador de arquivos- shelchive
 
 Objetivo: gerenciador de arquivos personalizado de multimidias, somente para pc por enquanto...
 
-Visual rafael-visual retro, capa de ps2 pros jogos com caopa editavel, capa de cd antigo pra arq mp3 e pasta pros arquivo normal.
+Visual rafael-visual retro, capa de ps2 pros jogos com capa editavel, capa de cd antigo pra arq mp3 e pasta pros arquivo normal.
 
 Visual joao-visual pixel art, estilização na ideia do vscode, interface no esqueleto do gerenciador tradicional
 
